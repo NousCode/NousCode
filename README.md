@@ -1,5 +1,5 @@
 # Hey there! 🤝 Welcome...
-<img src="https://dsm01pap002files.storage.live.com/y4mksg9o01eTSO1-x1k1lFw8plk2wJm6N3INU4zyzj0oKYbaEBu7d5oWHYx-tDNd2_aaOW7RZD0GvCLBcCANhFlVEobHPf6DaFZPGTMlmzjGB_XkE0PBrWtEQdaFUp3f0LMD6dIqvEEa76PHqyyIvJ4jpVJ-5t5v_DV17iTsP8eIbuju4o4Rkbh2hkii--JYqB36NIjDif27f5ChyOIqFjzyIC9ZNe_1RQpPsg4dFRxJtM?encodeFailures=1&width=948&height=474" alt="drawing" style="width: 100%; height: 21rem"/>
+<img src="https://dsm01pap002files.storage.live.com/y4mTx10pyJrdfinUnnMsgxcSB8vswBlH7oTIm9XKkQTsBc84RhLbtiSHvNAbyDfwVo8S5Yow6LXu6LYeRsvOasHgdqAM5hMXYMLMgunxg1cyMj_Df9O9WgxTzzjlAjucoNcno4GEmekp2DkJ6-L57_aUp7U8OPEiAiZR50DNdC8lSzgHXXnZI1kpKPkt6R4cewL7-jDeqgleS5ZmVLNYWGL6Ax1cuOX3X2RxX1UNGkfaZs?encodeFailures=1&width=941&height=471" alt="drawing" style="width: 100%; height: 22rem"/>
 
 ## 📡 Find me there:
 - Post articles in [Dev.to](https://dev.to/nouscode).
