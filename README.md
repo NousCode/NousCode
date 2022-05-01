@@ -50,7 +50,7 @@ Some of the projects:
   </p>
 </div>
 
-## Do you like the numbers, check some stats
+## Check some of my stats
 
 | | |
 ---|---  
