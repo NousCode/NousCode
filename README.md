@@ -1,6 +1,5 @@
 # Hey there! 🤝 Welcome...
-<img src="https://dsm01pap002files.storage.live.com/y4mTx10pyJrdfinUnnMsgxcSB8vswBlH7oTIm9XKkQTsBc84RhLbtiSHvNAbyDfwVo8S5Yow6LXu6LYeRsvOasHgdqAM5hMXYMLMgunxg1cyMj_Df9O9WgxTzzjlAjucoNcno4GEmekp2DkJ6-L57_aUp7U8OPEiAiZR50DNdC8lSzgHXXnZI1kpKPkt6R4cewL7-jDeqgleS5ZmVLNYWGL6Ax1cuOX3X2RxX1UNGkfaZs?encodeFailures=1&width=941&height=471" alt="drawing" style="width: 100%; height: 22rem"/>
-
+<a href="https://ibb.co/M1q0C4z"><img src="https://i.ibb.co/WzSJ2wr/Header2.jpg" alt="Header2" border="0" style="width: 100%; height: 21rem"/></a>
 ## 📡 Find me there:
 - Post articles in [Dev.to](https://dev.to/nouscode).
 - Talk about other topics [Twitter](https://twitter.com/JuanCSpace1).
