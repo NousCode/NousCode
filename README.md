@@ -1,5 +1,5 @@
 # Hey there! 🤝 Welcome...
-<a href="https://ibb.co/M1q0C4z"><img src="https://i.ibb.co/WzSJ2wr/Header2.jpg" alt="Header2" border="0" style="width: 100%; height: 21rem"/></a>
+<a href="https://www.linkedin.com/in/juan-camilo-salazar-ga%C3%B1an-3ab10a114/"><img src="https://i.ibb.co/WzSJ2wr/Header2.jpg" alt="Header2" border="0" style="width: 100%; height: 21rem"/></a>
 ## 📡 Find me there:
 - Post articles in [Dev.to](https://dev.to/nouscode).
 - Talk about other topics [Twitter](https://twitter.com/JuanCSpace1).
