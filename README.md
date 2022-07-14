@@ -1,5 +1,4 @@
 # Hey there! 🤝 Welcome...
-<a href="https://www.linkedin.com/in/juan-camilo-salazar-ga%C3%B1an-3ab10a114/"><img src="https://dsm01pap002files.storage.live.com/y4miq2_zL8xN7JnhjX2C5TmclKwv8WJ2qBGHREHp4B4NGdwhMzZqIG9Dt8mqlh0ReTF2ghmHcnPWacjuY2u4zbBr4prXALmwPU9j-3FQOabVdenqVo1q6vMm8MPvQdFAY7MDSCjSpJmzH-lk7-NDYrUBAgFFbAVodre_i4ED_KIiiX3lSlwx9jthEvv3SUIa4AxEb2DnsMDKuTBE6ZVq5qqbIFoGvwftkBa9dCFyjDgIaQ?encodeFailures=1&width=941&height=471" alt="Header2" border="0" style="width: 100%; height: 21rem"/></a>
 ## 📡 Find me there:
 - Post articles in [Dev.to](https://dev.to/nouscode).
 - Talk about other topics [Twitter](https://twitter.com/JuanCSpace1).
