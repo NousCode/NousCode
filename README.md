@@ -2,7 +2,7 @@
 ## About me...
 Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. In my academic area, I'm an electronic engineer who applies JavaScript, Python and NodeJS to create apps in the Backend side with frameworks like NestJS and FastAPI.
 
-🐉 I'm currently studing as an Platzi Master student at [Platzi](https://www.linkedin.com/school/platzi-inc/)
+🐉 I'm currently studing as a [Platzi](https://www.linkedin.com/school/platzi-inc/) Master student.
 
 🔭 Right now, I work in an app calls Studio Ghibli Backoffice.
 
