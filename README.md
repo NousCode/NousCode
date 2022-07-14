@@ -1,10 +1,4 @@
 # Hey there! 🤝 Welcome...
-## 📡 Find me there:
-- Post articles in [Dev.to](https://dev.to/nouscode).
-- Talk about other topics [Twitter](https://twitter.com/JuanCSpace1).
-- More information about my work [LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-ga%C3%B1an-3ab10a114/).
-- See me in instagram [Instagram](https://www.instagram.com/Nous_Code/)
-
 ## About me...
 Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. In my academic area, I'm an electronic engineer who applies JavaScript, Python and NodeJS to create apps in the Backend side with frameworks like NestJS and FastAPI.
 
@@ -54,7 +48,11 @@ Some of the projects:
 ---|---  
 | ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=NousCode&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NousCode&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
-
+## 📡 Find me there:
+- Post articles in [Dev.to](https://dev.to/nouscode).
+- Talk about other topics [Twitter](https://twitter.com/JuanCSpace1).
+- More information about my work [LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-ga%C3%B1an-3ab10a114/).
+- See me in instagram [Instagram](https://www.instagram.com/Nous_Code/)
 
 <!--
 **LifeSpaceJuan/LifeSpaceJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
