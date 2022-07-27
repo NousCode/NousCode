@@ -1,12 +1,12 @@
 # Hey there! 🤝 Welcome...
 ## About me...
-Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. In my academic area, I'm an electronic engineer who applies JavaScript, Python and NodeJS to create apps in the Backend side with frameworks like NestJS and FastAPI.
+I'm a Back-End developer that have applyed JavaScript, Python and NodeJS to create apps in the Backend side with frameworks like NestJS, .NET and FastAPI. I developed full integration web apps using Github, slack, SCRUM and Kanban. Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. 
 
 🐉 I'm currently studing as a [Platzi](https://www.linkedin.com/school/platzi-inc/) Master student.
 
-🔭 Right now, I work in an app calls Studio Ghibli Backoffice.
+🔭 Right now, I am improve my soft skills.
 
-🌱 I'm trying to learn hapi's framework.
+🌱 I'm trying to learn cloud computing and Devops.
 
 💬 Talk with me about any topic. Any conversation could be a fun way to meet people.
 
