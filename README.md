@@ -18,7 +18,7 @@ I really enjoy investing my time in technology projects, watch how all the piece
 Some of the projects:
 - [Studio Ghibli Movie Tracker](https://studio-ghibli-se.netlify.app/)
   - [This is the repository](https://github.com/C10-Ghibli-s)
-- [Batatabit is simple project for practice CSS](https://github.com/NousCode/Batatabit)
+- [Platzi Conf Hawaii is simple project for practice Bootstrap framework.](https://nouscode.github.io/platzi-bootstrap/)
 
 ## 🏅Technologies that I've done
 <div>
