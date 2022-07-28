@@ -4,7 +4,7 @@ I'm a Back-End developer that have applyed JavaScript, Python and NodeJS to crea
 
 🐉 I'm currently studing as a [Platzi](https://www.linkedin.com/school/platzi-inc/) Master student.
 
-🔭 Right now, I am improve my soft skills.
+🔭 Right now, I am improving my soft skills.
 
 🌱 I'm trying to learn cloud computing and Devops.
 
@@ -20,7 +20,7 @@ Some of the projects:
   - [This is the repository](https://github.com/C10-Ghibli-s)
 - [Platzi Conf Hawaii is simple project for practice Bootstrap framework.](https://nouscode.github.io/platzi-bootstrap/)
 
-## 🏅Technologies that I've done
+## 🏅Technologies that I've used.
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
