@@ -47,16 +47,5 @@ Some of the projects:
 
 ## Resources
 Write me an email or Download my CV.
-
-
-<div  style="display: flex; align-items: center; margin-right: 20px;">
-  <img src="./email.png" alt="" style="width: 80px; height: 80px">
-  <a style="margin-left: 8px;" href="mailto:nouscode@outlook.com">nouscode@outlook.com</a>
-</div> 
-
-<div  style="display: flex; align-items: center;">
-  <img src="./cv.png" alt="" style="width: 60px; height: 60px">
-  <a style="margin-left: 8px;" href="https://1drv.ms/b/s!Aj66jVJPb5INdPAz1L4KebsamhE">Curriculum Vitae</a>
-</div> 
-
-
+- My email: <a style="margin-left: 8px;" href="mailto:nouscode@outlook.com">nouscode@outlook.com</a>
+- My CV in PDF format: <a style="text-align: center;" href="https://1drv.ms/b/s!Aj66jVJPb5INdPAz1L4KebsamhE">Curriculum Vitae</a>
