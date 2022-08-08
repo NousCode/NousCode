@@ -1,6 +1,6 @@
 # Hey there! 🤝 Welcome...
 ## About me...
-I'm a Back-End developer that have applyed JavaScript, Python and NodeJS to create apps in the Backend side with frameworks like NestJS, .NET and FastAPI. I developed full integration web apps using Github, slack, SCRUM and Kanban. Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. 
+I'm a Back-End developer that have applyed JavaScript, C# and NodeJS to create apps in the Backend side with frameworks like NestJS and .NET. I program full integration web apps using development methodologies as Github, Slack, SCRUM and Kanban. Do sport is one of my hobbies, sometimes I go bike riding with friends, or do calesthenics, it helps you to focus on your main goals. 
 
 🐉 I'm currently studing as a [Platzi](https://www.linkedin.com/school/platzi-inc/) Master student.
 
@@ -8,12 +8,10 @@ I'm a Back-End developer that have applyed JavaScript, Python and NodeJS to crea
 
 🌱 I'm trying to learn cloud computing and Devops.
 
-💬 Talk with me about any topic. Any conversation could be a fun way to meet people.
-
 🎣 I'm looking for new horizons.
 
 ## Projects 🚂
-I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with C, JavaScript and python. Right now, I implement them in order to do web apps in the Backend.
+I really enjoy investing my time in technology projects, watch how all the pieces work together, it makes me feel thrilled, programming is that I use for communicate with those pieces. I've worked with JavaScript and C#. Right now, I implement them in order to do web apps in the Backend.
 
 Some of the projects:
 - [Studio Ghibli Movie Tracker](https://studio-ghibli-se.netlify.app/)
@@ -54,18 +52,5 @@ Some of the projects:
 - More information about my work [LinkedIn](https://www.linkedin.com/in/juan-camilo-salazar-ga%C3%B1an-3ab10a114/).
 - See me in instagram [Instagram](https://www.instagram.com/Nous_Code/)
 
-<!--
-**LifeSpaceJuan/LifeSpaceJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
