@@ -48,16 +48,15 @@ Some of the projects:
 ## Resources
 Write me an email or Download my CV.
 
-<div style="display: flex; align-items: center;">
-  <div  style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="https://cdn-icons.flaticon.com/png/512/2989/premium/2989993.png?token=exp=1659991422~hmac=c520a46573df975f5f85d53d24fa940f" alt="" style="width: 80px; height: 80px">
-    <a style="margin-left: 8px;" href="mailto:nouscode@outlook.com">nouscode@outlook.com</a>
-  </div> 
 
-  <div  style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135686.png" alt="" style="width: 60px; height: 60px">
-    <a style="margin-left: 8px;" href="https://1drv.ms/b/s!Aj66jVJPb5INdPAz1L4KebsamhE">Curriculum Vitae</a>
-  </div> 
-</div>
+<div  style="display: flex; align-items: center; margin-right: 20px;">
+  <img src="./email.png" alt="" style="width: 80px; height: 80px">
+  <a style="margin-left: 8px;" href="mailto:nouscode@outlook.com">nouscode@outlook.com</a>
+</div> 
+
+<div  style="display: flex; align-items: center;">
+  <img src="./cv.png" alt="" style="width: 60px; height: 60px">
+  <a style="margin-left: 8px;" href="https://1drv.ms/b/s!Aj66jVJPb5INdPAz1L4KebsamhE">Curriculum Vitae</a>
+</div> 
 
 
