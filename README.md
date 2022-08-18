@@ -21,6 +21,7 @@ Some of the projects:
   - [The official repository](https://github.com/C10-Ghibli-s/BE-Studio-Ghibli-Tracker)
 
 - [Personal portfolio and blog website: Share blogs and your dev projects in a modern web page.](https://github.com/NousCode/personal-website)
+  - [Portfolio and Blog Website](https://nouscode.net/)
 - [Platzi Conf Hawaii is simple project for practice Bootstrap framework.](https://nouscode.github.io/platzi-bootstrap/)
 
 ## 🏅Technologies that I've used.
